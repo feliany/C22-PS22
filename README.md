@@ -7,7 +7,7 @@ field dominated with straight euro centric hair care standards. It doesn’t see
 products for everyones hair needs and promote diversity, whether it’s curly, oily, colored hair, we got you!
 
 
-Github for Capstone Project by team C22-PS22. Here are the active members:
+Github for Capstone Project by team C22-PS222. Here are the active members:
 Helma Syifa Izzadiana (M7011F1158) - Machine Learning - Universitas Padjadjaran
 Michelle Selina Buntara (M7011F1165) - Machine Learning - Universitas Padjadjaran
 Feliany Dwisusanta (A2001F0022) - Mobile Development - Institut Pertanian Bogor
