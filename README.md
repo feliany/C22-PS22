@@ -12,9 +12,9 @@ products for everyones hair needs and promote diversity, whether it’s curly, o
 
 **Github for Capstone Project by team C22-PS222. Here are the active members:**
 
-- Helma Syifa Izzadiana (M7011F1158) - Machine Learning - Universitas Padjadjaran
-- Michelle Selina Buntara (M7011F1165) - Machine Learning - Universitas Padjadjaran
-- Feliany Dwisusanta (A2001F0022) - Mobile Development - Institut Pertanian Bogor
-- Josephine Ceria (A2010J1047) - Mobile Development - Universitas Indonesia
-- Abraham Parulian Sihombing (C2010F1038) - Cloud Computing - Universitas Indonesia
-- Ryan Austin Andika (C2012F1334) - Cloud Computing - Universitas Telkom
+- Helma Syifa Izzadiana (M7011F1158) - Machine Learning - Universitas Padjadjaran - [linkedin](https://www.linkedin.com/in/helmaizzadiana)
+- Michelle Selina Buntara (M7011F1165) - Machine Learning - Universitas Padjadjaran - [linkedin](https://www.linkedin.com/in/michelleselina)
+- Feliany Dwisusanta (A2001F0022) - Mobile Development - Institut Pertanian Bogor - [linkedin](https://www.linkedin.com/in/feliany-dwisusanta-521b85206/)
+- Josephine Ceria (A2010J1047) - Mobile Development - Universitas Indonesia - [linkedin](https://www.linkedin.com/in/josephineceria/)
+- Abraham Parulian Sihombing (C2010F1038) - Cloud Computing - Universitas Indonesia - [linkedin](https://www.linkedin.com/in/abraham-sihombing-b575b1195/)
+- Ryan Austin Andika (C2012F1334) - Cloud Computing - Universitas Telkom - [linkedin](https://www.linkedin.com/in/ryan-austin-andika-870240195/)
