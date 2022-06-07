@@ -1,0 +1,16 @@
+server {
+    listen 80;
+    server_name 34.101.74.216;
+    client_max_body_size 8M;
+    proxy_read_timeout 300;
+   proxy_connect_timeout 300;
+   proxy_send_timeout 300;
+location / {
+  include uwsgi_params;
+  uwsgi_pass unix:/home/c2010f1038/app.sock;
+    }
+location /predict {
+        include uwsgi_params;
+        uwsgi_pass unix:/home/c2010f1038/app.sock;
+    }
+}
