@@ -15,7 +15,7 @@ app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = "images"
 
 model = keras.models.load_model(
-    "Categorical_Adam.h5", custom_objects={'KerasLayer': hub.KerasLayer})
+    "Categorical_Adam_fix.h5", custom_objects={'KerasLayer': hub.KerasLayer})
 
 
 def return_label(array):
@@ -47,26 +47,29 @@ def predict():
     if request.method == "POST":
         shutil.rmtree('images')
         os.makedirs('images')
-        imagefile = request.files['imagefile']
+        imagefile = request.files['photo']
         test_image = prepare_image(imagefile)
 
         result = model.predict(test_image)
         label1 = return_label(result[0])
         prediction = ''
-        if label1 == 0:
-            prediction += 'alopecia_areata'
+
+        if result[0][label1] < 0.5:
+            prediction += 'your pic not scalp'
+        elif label1 == 0:
+            prediction += 'alopecia areata'
         elif label1 == 1:
             prediction += 'dandruff'
         elif label1 == 2:
             prediction += 'folliculitis'
         elif label1 == 3:
-            prediction += 'Healthy_scalp'
+            prediction += 'Healthy scalp'
         elif label1 == 4:
             prediction += 'psoriasis'
         elif label1 == 5:
-            prediction += 'seborrheic_dermatitis'
+            prediction += 'seborrheic dermatitis'
         elif label1 == 6:
-            prediction += 'tinea_capitis'
+            prediction += 'tinea capitis'
 
         os.remove("images/{}".format(imagefile.filename))
     else:
