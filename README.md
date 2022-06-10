@@ -1,4 +1,4 @@
-# Step to run the App
+# Steps to run the App
 
 <br>
 
