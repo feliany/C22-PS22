@@ -18,3 +18,7 @@ products for everyones hair needs and promote diversity, whether it’s curly, o
 - Josephine Ceria (A2010J1047) - Mobile Development - Universitas Indonesia - [linkedin](https://www.linkedin.com/in/josephineceria/)
 - Abraham Parulian Sihombing (C2010F1038) - Cloud Computing - Universitas Indonesia - [linkedin](https://www.linkedin.com/in/abraham-sihombing-b575b1195/)
 - Ryan Austin Andika (C2012F1334) - Cloud Computing - Universitas Telkom - [linkedin](https://www.linkedin.com/in/ryan-austin-andika-870240195/)
+
+
+**Note**
+To access the prototype application and to find the steps of making the prototype app, select "MD" branch.
