@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787995091663",
+    "project_id": "cc22-ps222",
+    "storage_bucket": "cc22-ps222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787995091663:android:17ed0017abbceedf824dba",
+        "android_client_info": {
+          "package_name": "com.dicoding.picodiploma.badaiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787995091663-qqatqro852ujonhi62jpahm18flppucb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxePqZBPHdH5c4G5NRJzyBYvFipa8ytdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787995091663-qqatqro852ujonhi62jpahm18flppucb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
