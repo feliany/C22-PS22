@@ -20,5 +20,5 @@ products for everyones hair needs and promote diversity, whether it’s curly, o
 - Ryan Austin Andika (C2012F1334) - Cloud Computing - Universitas Telkom - [linkedin](https://www.linkedin.com/in/ryan-austin-andika-870240195/)
 
 
-**Note**
-To access the prototype application and to find the steps of making the prototype app, select "MD" branch.
+**Note** <br>
+To access the prototype application and to find the steps to run the prototype app, select "MD" branch.
